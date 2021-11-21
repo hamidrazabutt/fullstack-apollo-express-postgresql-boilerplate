@@ -1,7 +1,7 @@
 {
-  "name": "fullstack-apollo-express-postgresql-boilerplate",
+  "name": "expresstut",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://travis-ci.org/the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate.svg)](https://greenkeeper.io/)",
   "main": "index.js",
   "engines": {
     "node": "10.11.0"
@@ -41,5 +41,13 @@
     "pg": "^7.6.1",
     "sequelize": "^4.41.2",
     "uuid": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidrazabutt/fullstack-apollo-express-postgresql-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamidrazabutt/fullstack-apollo-express-postgresql-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hamidrazabutt/fullstack-apollo-express-postgresql-boilerplate#readme"
 }
